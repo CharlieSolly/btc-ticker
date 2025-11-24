@@ -2,7 +2,7 @@
 
 A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 
-![BTC Ticker](screenshots/main.png)
+![BTC Ticker]
 
 ## Download
 (https://github.com/YOURUSERNAME/btc-ticker/releases/latest/download/BTC-Ticker.exe)  
