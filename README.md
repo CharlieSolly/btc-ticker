@@ -6,7 +6,7 @@ A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 
 ## Download
 (https://github.com/CharlieSolly/btc-ticker/blob/main/btc-ticker.exe)  
-(≈ 2.5 MB • single file • just double-click)
+(≈ 2.5 MB • single file)
 
 ## Features
 - Live Bitcoin price in USD
@@ -17,8 +17,9 @@ A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 - Dark GitHub-style theme
 - Always on top
 - Updates every 20 seconds
-
-No install. No Python needed. Zero bullshit.
+- Uses Coingeckos api
+  
+No install. No Python needed. Zero bullshit. 
 
 Made for people who just want the price on their second monitor forever.
 
