@@ -9,7 +9,7 @@ A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 
 ## Download
 (https://github.com/CharlieSolly/btc-ticker/blob/main/btc-ticker.exe)  
-(≈ 2.5 MB • single file)
+(single file)
 
 ## Features
 - Live Bitcoin price in USD
