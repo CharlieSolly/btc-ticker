@@ -2,7 +2,10 @@
 
 A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 
+!95% Universal!
+
 [BTC Ticker]
+[BTC widgest]
 
 ## Download
 (https://github.com/CharlieSolly/btc-ticker/blob/main/btc-ticker.exe)  
