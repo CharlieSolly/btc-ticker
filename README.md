@@ -16,7 +16,7 @@ A tiny, beautiful, 20 second refresh rate Bitcoin price ticker for Windows.
 - 24h % change with arrow ↑↓ and color
 - Drag anywhere by clicking
 - Resize with the bottom-right grip
-- Right-click → Copy price or Refresh
+- Right-click → Copy price or Refresh and EXIT.. . 
 - Dark GitHub-style theme
 - Always on top
 - Updates every 20 seconds
